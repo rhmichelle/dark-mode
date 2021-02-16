@@ -1,0 +1,177 @@
+[33mcommit e2a986ae1e37f24a4291a3824bd1bfe78225a87d[m[33m ([m[1;36mHEAD -> [m[1;32mmichelleRH[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Wed Oct 28 12:24:28 2020 -0600
+
+    Update README.md
+
+[33mcommit 13eef78394ac41a8a04a01583f2e9b2e199e95f7[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Mon Sep 28 10:50:29 2020 -0600
+
+    Update index.js
+
+[33mcommit cc1bd6c247ad3896da4b766f5921b699c2bd2c6e[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Mon Sep 28 10:36:38 2020 -0600
+
+    Update Navbar.jsx
+
+[33mcommit da88855cba2648be999c284451918c46cf43b90e[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Mon Sep 28 10:35:34 2020 -0600
+
+    Update index.js
+
+[33mcommit 5788d1b61a17062ee118de50fbe31320cb639e3d[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Mon Sep 28 10:30:02 2020 -0600
+
+    Update README.md
+
+[33mcommit 11ce5b9b848ebfe7505a01a3d33ffaad8b4e76f1[m
+Author: Zoe Ludwig <56557607+zoelud@users.noreply.github.com>
+Date:   Sat Sep 26 14:00:21 2020 -0700
+
+    Update README.md
+
+[33mcommit f2996ce19f23b37b0b83841eca467e28265413f5[m
+Merge: daf10dd 8cf935a
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Wed Aug 5 14:41:34 2020 -0600
+
+    Merge pull request #232 from HarryHenryGebel/new-lock-file
+    
+    New lock file
+
+[33mcommit 8cf935abcbd4393f261964ef55ea692b898314e3[m
+Author: Harry Henry Gebel <hhgebel@gmail.com>
+Date:   Wed Aug 5 16:31:52 2020 -0400
+
+    Fix stale package-lock.json
+
+[33mcommit 7795b8cf4dd9f3cc4662a8e38e2410a68f3d2ed4[m
+Merge: 80bd3ec daf10dd
+Author: Harry Henry Gebel <hhgebel@gmail.com>
+Date:   Wed Aug 5 16:11:24 2020 -0400
+
+    Merge pull request #1 from LambdaSchool/master
+    
+    Merge from original
+
+[33mcommit daf10dd4dccd1bb5f46619ac64f03dab40ad24c3[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Wed Aug 5 09:33:59 2020 -0600
+
+    Update README.md
+
+[33mcommit cdb6258b3e0fb968cf3fef368286edd9020076b2[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Wed Aug 5 09:17:16 2020 -0600
+
+    Update index.js
+
+[33mcommit 80bd3ec65c8964072a946b11cf9de511a78d648d[m
+Merge: 870a322 0fd43ec
+Author: Gabriel Cabrejas <Ladrillo@users.noreply.github.com>
+Date:   Wed Mar 4 10:09:25 2020 +0100
+
+    Merge pull request #157 from LambdaSchool/kill-yarn
+    
+    Update CRA & deps, remove mentions to yarn
+
+[33mcommit 0fd43ec9e08a25ed214a3787515a2d53019c3ff2[m[33m ([m[1;31morigin/kill-yarn[m[33m)[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Tue Mar 3 12:33:06 2020 +0100
+
+    Update CRA & deps, remove mentions to yarn
+
+[33mcommit 870a322d5b0048618e447180fcb9d5f86d1e7798[m
+Merge: 272bbb1 7b8c4de
+Author: Dan Levy <397632+justsml@users.noreply.github.com>
+Date:   Tue Nov 26 09:52:30 2019 -0700
+
+    Merge pull request #84 from jasonsbarr/update
+    
+    Add `node-sass` as dependency
+
+[33mcommit 7b8c4defb238f6cbe0a6c078fcbfbab1be4d5e62[m
+Author: Jason Barr <jason@jasonsbarr.com>
+Date:   Tue Nov 12 19:30:53 2019 -0600
+
+    Delete yarn.lock
+    
+    So students can decide on their own to use either yarn or npm
+
+[33mcommit 3c1e2e07844574db87493d4b56cc62c67f53a909[m
+Author: Jason Barr <jason@jasonsbarr.com>
+Date:   Thu Nov 7 13:20:29 2019 -0600
+
+    Remove comments about manifest.json
+
+[33mcommit 696e774f55de92d74c2a4faa707110e5ce654e41[m
+Author: Jason Barr <jason@jasonsbarr.com>
+Date:   Thu Nov 7 13:17:44 2019 -0600
+
+    Remove reference to nonexistent manifest.json
+
+[33mcommit 86cec8e573073850c7ab96d4f3cda0fda2d0492e[m
+Author: Jason Barr <jason@jasonsbarr.com>
+Date:   Thu Nov 7 13:11:57 2019 -0600
+
+    Add node-sass as dependency
+    
+    Global styles are defined in scss but no Sass package was installed
+
+[33mcommit 03d22528af9b2e8abd140f9115e6c23373ba2d26[m
+Author: Jason Barr <jason@jasonsbarr.com>
+Date:   Thu Nov 7 12:50:27 2019 -0600
+
+    Install dependencies
+
+[33mcommit 272bbb13b579c7b51faa090fb2b6c6a1caee3106[m
+Author: Dan Levy <397632+justsml@users.noreply.github.com>
+Date:   Thu Jul 25 09:48:44 2019 -0600
+
+    Create .gitignore
+
+[33mcommit 350d6f37941444193a19ea26c6168912be7cb925[m
+Author: Dan Levy <397632+justsml@users.noreply.github.com>
+Date:   Thu Jul 25 09:41:55 2019 -0600
+
+    Update README.md
+
+[33mcommit e11ff258a99a1ff765b362b8fd2308e08e349113[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Thu Jul 25 09:41:21 2019 -0600
+
+    Update index.js
+
+[33mcommit c078143aff4cedc4952bc95d3c538e7fdf3e6e4f[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Thu Jul 25 09:41:02 2019 -0600
+
+    Update and rename styles.css to styles.scss
+
+[33mcommit d59df537f6ab52f17af3c2ee93408c5c456c3b07[m
+Author: Dustin Myers <dustint314@gmail.com>
+Date:   Tue Jul 16 10:38:26 2019 -0400
+
+    Add project files from codesandbox
+
+[33mcommit 7f1755b1fe9af90ec417ee842b77f0f03088227b[m
+Author: Dustin Myers <dustint314@gmail.com>
+Date:   Tue Jul 16 10:37:06 2019 -0400
+
+    Add instructions
+
+[33mcommit ea089aba238f6f6323b8c86455f6ba3fb3ed343d[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Mon Jul 15 22:49:18 2019 -0400
+
+    Update README.md
+
+[33mcommit 520df6a9913720cd14faaf82155d5b1a5d56986a[m
+Author: Dustin Myers <dustinmyers@users.noreply.github.com>
+Date:   Mon Jul 15 22:24:33 2019 -0400
+
+    Initial commit

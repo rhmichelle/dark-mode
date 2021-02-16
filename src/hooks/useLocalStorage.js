@@ -25,6 +25,7 @@ const useLocalStorage = (key, initialValue) => {
 
 export default useLocalStorage;
 
-// useLocalStorage hook gives you the ability to use a storeValue and Set a StoredValue
-//{ useState } hook
-// const [useActiveState, setActiveState] = useState();
+// useLocalStorage hook gives you the ability to use a storedValue and Set a StoredValue
+// This hook composes useState, providing the exact same format and functionality as useState, while also persisting the state value to localStorage
+// So in the case of const [darkMode, setDarkMode] = useState(false);
+// It would set the state for dakrMode, but also add it to localStorage
